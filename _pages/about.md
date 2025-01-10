@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am Alexandra, a Research Scientist at Google in the [Gemini](https://bard.google.com/chat) team working on Natural Language Processing (Machine Learning). 
+I am Alexandra, a Research Scientist at Google DeepMind in the [Gemini](https://bard.google.com/chat) team working on post-training of LLMs, and more widely on Natural Language Processing (Machine Learning). 
 
-Before that, I was a PhD student at the [University of Munich](https://www.en.uni-muenchen.de/index.html) supervised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My PhD research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints.   
+I earned my PhD in Computer Science from the [University of Munich](https://www.en.uni-muenchen.de/index.html), where I was advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My PhD research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints.   
 
 <!-- machine translation, multilinguality and domain adaptation. I am currently interested in parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches. -->
 
@@ -23,6 +23,13 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
  <h2>News</h2>
  
+  <b>January 2025</b>: I am co-organizing [Repl4NLP 2025](https://sites.google.com/corp/view/repl4nlp2025/call-for-papers). The workshop will be co-located with NAACL 2025 in Albuquerque, New Mexico. 
+
+  <b>December 2024</b>: My PhD thesis titled "Efficient Multilingual and Domain Adaptation of
+Language Models under Resource Constraints" is now available [online](https://edoc.ub.uni-muenchen.de/34205/1/Chronopoulou_Alexandra.pdf). 
+
+  <b>November 2024</b>: Excited to share that our paper [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization](https://arxiv.org/pdf/2311.09344) got <b>best paper award</b> at the Multilingual Representation Learning workshop at EMNLP 2024!
+
  <b>October 2024</b>: New preprint on [Model Merging of Large Language Models](https://arxiv.org/pdf/2410.03617).
 
   <b>October 2024</b>: Our paper [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization](https://arxiv.org/pdf/2311.09344) has been accepted to appear at the MRL workshop in EMNLP 2024! See you in Miami! 🌴
@@ -33,13 +40,13 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
 <b>January 2024</b>: Excited to share that I have joined Google Bard in NYC as a Research Scientist!
 
- <b>November 2023</b>: New preprint is out on [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization
+ <!--  <b>November 2023</b>: New preprint is out on [Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization
 ](https://arxiv.org/abs/2311.09344.pdf) from my internship at Google DeepMind!
 
 
  <b>October 2023</b>: Happy to share that our paper [Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation](https://arxiv.org/pdf/2305.12786.pdf) has been accepted to the Findings of EMNLP 2023!
 
- <b>May 2023</b>: Our paper [Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation](https://arxiv.org/pdf/2305.12786.pdf) is out.
+<b>May 2023</b>: Our paper [Mitigating Data Imbalance and Representation Degeneration in Multilingual Machine Translation](https://arxiv.org/pdf/2305.12786.pdf) is out.
 
  <b>May 2023</b>: Our paper [On the Copying Problem of Unsupervised NMT: A Training Schedule with a Language Discriminator Loss](https://aclanthology.org/2023.iwslt-1.48.pdf) was accepted to IWSLT 2023 and our paper [Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters](https://www.isca-speech.org/archive/pdfs/interspeech_2023/pal23_interspeech.pdf) (from my Amazon internship) was accepted to Interspeech 2023!
 
@@ -53,8 +60,7 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
 <b>February 2023</b>: I am co-organizing a shared task on [dubbing](https://iwslt.org/2023/dubbing) in [IWSLT 2023](https://iwslt.org/2023/) (co-located with ACL next summer) along with former teammates from Amazon.
 
-<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://aclanthology.org/2023.loresmt-1.5.pdf) from my internship at Allen AI was accepted to EACL 2023 (findings)!
-
+<b>January 2023</b>: Our paper [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://aclanthology.org/2023.loresmt-1.5.pdf) from my internship at Allen AI was accepted to EACL 2023 (findings)! -->
 
 <!-- <b>October 2022</b>: Our work [m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter](https://aclanthology.org/2022.findings-emnlp.315.pdf) was accepted to EMNLP 2022 (findings)!
 
@@ -119,4 +125,4 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
 - My undergrad thesis supervisor was [Alexandros Potamianos](https://slp-ntua.github.io/potam/). I spent a good part of 2018 and 2019 in the Speech and Language Processing group of ECE, NTUA. Thesis: [Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling](https://alexandra-chron.github.io/files/thesis_achronopoulou.pdf). During my last undergrad year I was also working as a Machine Learning Engineer at [Behavioral Signal Technologies](https://behavioralsignals.com/). 
 
-- I am from Athens, Greece and I enjoy literature, movies, the sea, summers in Greece, wind-surfing (lately), [Thanasis'](https://www.youtube.com/channel/UC4tLNPEm2HYi2UG7z78MfsQ) concerts, skiing, padel, and travelling. 
+- I am from Athens, Greece (go VVV!) and I enjoy a variety of things including books, good movies, sports (tennis, padel, skiing), concerts, exploring new places, and most activities that are ocean-related. 
