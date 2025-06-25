@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Alexandra, a Research Scientist at Google DeepMind in the [Gemini](https://bard.google.com/chat) team working on post-training of LLMs, and more widely on Natural Language Processing (Machine Learning). 
+I am Alexandra, a Research Scientist at Google DeepMind in the GenAI team working on post-training of LLMs (Gemini) and more widely on Natural Language Processing (Machine Learning). 
 
 I earned my PhD in Computer Science from the [University of Munich](https://www.en.uni-muenchen.de/index.html), where I was advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My PhD research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints.   
 
