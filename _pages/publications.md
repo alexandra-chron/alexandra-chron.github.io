@@ -120,12 +120,12 @@ author_profile: true
 
 <ul class="sparse-list">
         <li>
-          <b><a href="https://edoc.ub.uni-muenchen.de/34205/">Efficient multilingual and domain adaptation of language models under resource constraints</a></b> [<a href="https://edoc.ub.uni-muenchen.de/34205/" class="link-in-list">PhD Thesis</a>]   <br/>
+          <b><a href="https://edoc.ub.uni-muenchen.de/34205/">Efficient multilingual and domain adaptation of language models under resource constraints</a></b> PhD Thesis <br/>
           <b>Alexandra Chronopoulou</b> <br/> 
           Ludwig Maximilian University of Munich <br/>
         </li>
         <li>
-          <b><a href="https://alexandra-chron.github.io/files/thesis_achronopoulou.pdf">Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling</a></b> [<a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/49039/diplomatiki_achronopoulou.pdf?sequence=1" class="link-in-list">thesis (in Greek)</a>]   <br/>
+          <b><a href="https://alexandra-chron.github.io/files/thesis_achronopoulou.pdf">Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling</a></b> [<a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/49039/diplomatiki_achronopoulou.pdf?sequence=1" class="link-in-list">thesis in Greek</a>]   <br/>
           <b>Alexandra Chronopoulou</b> <br/> 
           National Technical University of Athens (NTUA) <br/>
         </li>
