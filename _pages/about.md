@@ -49,12 +49,17 @@ Language Models under Resource Constraints" is now available [online](https://ed
             <li>
           <b><a  href="https://arxiv.org/pdf/2507.06261">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities </a></b> <br/> 
           Gemini Team, Google (I was one of the > 1000 authors)
-          <br/>technical report<br/>
+          <br/>technical report 2025<br/>
+        </li>
+          <li>
+          <b><a  href="https://openreview.net/pdf?id=9sbetmvNpW">What Matters for Model Merging at Scale?</a></b> <br/>
+          <a href="https://prateeky2806.github.io/">Prateek Yadav </a>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/> 
+           Transactions on Machine Learning Research (TMLR) 2025 <br/> 
         </li>
             <li>
           <b><a  href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf">Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context </a></b> <br/> 
           Gemini Team, Google (I was one of the > 1000 authors)
-          <br/>technical report<br/>
+          <br/>technical report 2024<br/>
         </li>
             <li>
           <b><a  href="https://arxiv.org/abs/2311.09344.pdf">Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization</a></b> <br/> 

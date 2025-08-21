@@ -15,6 +15,11 @@ author_profile: true
           Gemini Team, Google (I was one of the > 1000 authors)
           <br/>technical report 2025<br/>
         </li>
+          <li>
+          <b><a  href="https://openreview.net/pdf?id=9sbetmvNpW">What Matters for Model Merging at Scale?</a></b> <br/>
+          <a href="https://prateeky2806.github.io/">Prateek Yadav </a>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/> 
+           Transactions on Machine Learning Research (TMLR) 2025 <br/> 
+        </li>
             <li>
           <b><a  href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf">Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context </a></b> <br/> 
           Gemini Team, Google (I was one of the > 1000 authors)
@@ -36,11 +41,6 @@ author_profile: true
 
 <ul class="sparse-list">
           <li>
-          <b><a  href="https://openreview.net/pdf?id=9sbetmvNpW">What Matters for Model Merging at Scale?</a></b> <br/>
-          <a href="https://prateeky2806.github.io/">Prateek Yadav </a>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/> 
-           Transactions on Machine Learning Research (TMLR) 2025 <br/> 
-        </li>
-          <li>
           <b><a  href="https://arxiv.org/pdf/2302.12979.pdf">Jointly Optimizing Translations and Speech Timing to Improve Isochrony in Automatic Dubbing</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="https://surafelml.github.io/">Surafel M. Lakew</a>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
           arxiv preprint <br/> 
@@ -50,11 +50,6 @@ author_profile: true
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           EACL LoResMT workshop 2023 <br/>
           </li>
-          <li>
-          <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
-          <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
-          EACL 2023 (Findings)<br/>
-        </li>
             <li>
           <b><a href="https://aclanthology.org/2023.iwslt-1.1.pdf"> Findings of the IWSLT 2023 Evaluation Campaign </a></b> <br/>
           <a href="https://milind-agarwal.github.io/">Milind Agarwal</a>, ..., <b>Alexandra Chronopoulou</b>, et al. (50+ authors) <br/>
