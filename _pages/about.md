@@ -23,6 +23,12 @@ Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Elec
 
  <h2>News</h2>
  
+<b>August 2025</b>: I will be in San Diego in December to attend NeurIPS and participate at the panel of the [Model Merging](https://neurips.cc/virtual/2025/tutorial/109593) tutorial.
+
+  <b>July 2025</b>: The [technical report](https://arxiv.org/pdf/2507.06261) of our most advanced model, [Gemini 2.5 pro](https://aistudio.google.com/app/prompts/new_chat), has just been published! 
+
+   <b>June 2025</b>: The paper [Model Merging of Large Language Models](https://openreview.net/pdf?id=9sbetmvNpW) of our intern [Prateek Yadav](https://x.com/prateeky2806) has been accepted to Transactions on Machine Learning Research (TMLR). 
+
   <b>January 2025</b>: I am co-organizing [Repl4NLP 2025](https://sites.google.com/corp/view/repl4nlp2025/call-for-papers). The workshop will be co-located with NAACL 2025 in Albuquerque, New Mexico. 
 
   <b>December 2024</b>: My PhD thesis titled "Efficient Multilingual and Domain Adaptation of
@@ -36,14 +42,15 @@ Language Models under Resource Constraints" is now available [online](https://ed
 
  <b>October 2024</b>: It's a wrap! 🎓 I successfully defended my PhD thesis on Efficient Multilingual and Domain Adaptation of Language Models under Resource Constraints. My thesis will (hopefully) be online soon! 
 
- <b>April 2024</b>: Check out the [Gemini 1.5 Pro API](https://developers.googleblog.com/en/gemini-15-pro-now-available-in-180-countries-with-native-audio-understanding-system-instructions-json-mode-and-more/), a top-tier LLM according to the [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) ([technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf))
-
-<b>January 2024</b>: Excited to share that I have joined Google Bard in NYC as a Research Scientist!
-
 
  <h2>Selected Publications</h2>
 
 <ul class="sparse-list">
+            <li>
+          <b><a  href="https://arxiv.org/pdf/2507.06261">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities </a></b> <br/> 
+          Gemini Team, Google (I was one of the > 1000 authors)
+          <br/>technical report<br/>
+        </li>
             <li>
           <b><a  href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf">Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context </a></b> <br/> 
           Gemini Team, Google (I was one of the > 1000 authors)
@@ -58,19 +65,6 @@ Language Models under Resource Constraints" is now available [online](https://ed
           <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           EACL 2023 (Findings)<br/>
-        </li>
-         <li>
-          <b><a href="https://aclanthology.org/2023.loresmt-1.5.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          EACL LoResMT workshop 2023 <br/>
-          </li>
-            <li>
-           <b><a  href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
-          [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
-          [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
-          [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
-          NAACL 2022<br/>
         </li>
 
 </ul>

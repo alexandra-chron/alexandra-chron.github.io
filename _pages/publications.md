@@ -10,12 +10,17 @@ author_profile: true
  <font size="+2">Selected Papers </font>
 
 <ul class="sparse-list">
-             <li>
+            <li>
+          <b><a  href="https://arxiv.org/pdf/2507.06261">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities </a></b> <br/> 
+          Gemini Team, Google (I was one of the > 1000 authors)
+          <br/>technical report 2025<br/>
+        </li>
+            <li>
           <b><a  href="https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf">Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context </a></b> <br/> 
           Gemini Team, Google (I was one of the > 1000 authors)
-          <br/>technical report<br/>
+          <br/>technical report 2024<br/>
         </li>
-              <li>
+            <li>
           <b><a  href="https://arxiv.org/abs/2311.09344.pdf">Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization</a></b> <br/> 
           <b>Alexandra Chronopoulou</b>, <a href="https://pfeiffer.ai/">Jonas Pfeiffer</a>, <a href="https://scholar.google.com/citations?user=LdNDZRcAAAAJ&hl=en">Joshua Maynez</a>, <a href="https://cindyxinyiwang.github.io/">Xinyi Wang</a>, <a href="https://www.ruder.io/">Sebastian Ruder</a>, <a href="https://sites.google.com/site/priyankaagr17">Priyanka Agrawal</a>  <br/>
           EMNLP MRL Workshop 2024<br/>
@@ -25,34 +30,30 @@ author_profile: true
           <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
           EACL 2023 (Findings)<br/>
         </li>
-         <li>
-          <b><a href="https://aclanthology.org/2023.loresmt-1.5.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
-          EACL LoResMT workshop 2023 <br/>
-          </li>
-             <li>
-           <b><a  href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
-          [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
-          [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
-          [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] <br/>
-          <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
-          NAACL 2022<br/>
-          <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
-        </li>
 </ul>
 
 <font size="+2">Other Papers </font>
 
 <ul class="sparse-list">
           <li>
-          <b><a  href="https://arxiv.org/pdf/2410.03617">What Matters for Model Merging at Scale?</a></b> <br/>
-          <a href="https://prateeky2806.github.io/">Prateek Yadav </a>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/>
-          arxiv preprint <br/> 
+          <b><a  href="https://openreview.net/pdf?id=9sbetmvNpW">What Matters for Model Merging at Scale?</a></b> <br/>
+          <a href="https://prateeky2806.github.io/">Prateek Yadav </a>, <a href="https://tuvllms.github.io/">Tu Vu</a>, <a href="https://scholar.google.com/citations?user=fKbPy2MAAAAJ&hl=en">Jonathan Lai</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.manaalfaruqui.com/">Manaal Faruqui</a>, <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, <a href="https://www.tsendeemts.com/">Tsendsuren Munkhdalai</a> <br/> 
+           Transactions on Machine Learning Research (TMLR) 2025 <br/> 
         </li>
           <li>
           <b><a  href="https://arxiv.org/pdf/2302.12979.pdf">Jointly Optimizing Translations and Speech Timing to Improve Isochrony in Automatic Dubbing</a></b> <br/>
           <b>Alexandra Chronopoulou</b>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="https://surafelml.github.io/">Surafel M. Lakew</a>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
           arxiv preprint <br/> 
+        </li>
+         <li>
+          <b><a href="https://aclanthology.org/2023.loresmt-1.5.pdf">Language-Family Adapters for Low-Resource Multilingual Neural Machine Translation</a></b> [<a href="https://alexandra-chron.github.io/files/langfam_adapters.pdf" class="link-in-list">slides</a>] <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
+          EACL LoResMT workshop 2023 <br/>
+          </li>
+          <li>
+          <b><a  href="https://aclanthology.org/2023.findings-eacl.153.pdf">AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models</a></b> [<a href="https://alexandra-chron.github.io/files/adaptersoup.pdf" class="link-in-list">slides</a>] <br/> 
+          <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
+          EACL 2023 (Findings)<br/>
         </li>
             <li>
           <b><a href="https://aclanthology.org/2023.iwslt-1.1.pdf"> Findings of the IWSLT 2023 Evaluation Campaign </a></b> <br/>
@@ -73,6 +74,15 @@ author_profile: true
           <b><a  href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/pal23_interspeech.pdf">Improving Isochronous Machine Translation with Target Factors and Auxiliary Counters</a></b> <br/>
          <a href="https://proyag.github.io/">Proyag Pal</a>, <a href="https://thompsonb.github.io/">Brian Thompson</a>, <a href="https://scholar.google.com/citations?user=Cida6AcAAAAJ&hl=en">Yogesh Virkar</a>, <a href="http://mtresearcher.github.io/">Prashant Mathur</a>, <b>Alexandra Chronopoulou</b>, <a href="https://www.marcellofederico.net/">Marcello Federico</a><br/>
           INTERSPEECH 2023 <br/>
+        </li>
+             <li>
+           <b><a  href="https://aclanthology.org/2022.naacl-main.96.pdf">Efficient Hierarchical Domain Adaptation for Pretrained Language Models</a></b>          
+          [<a href="https://github.com/alexandra-chron/hierarchical-domain-adaptation" class="link-in-list">code</a>]
+          [<a href="https://blog.allenai.org/efficient-hierarchical-domain-adaptation-using-pretrained-language-models-fdd04c001230">blog</a>]
+          [<a href="https://alexandra-chron.github.io/files/eff_hier_dom_adapt.pdf" class="link-in-list">slides</a>] <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en">Matthew E. Peters</a>, <a href="https://jessedodge.github.io/">Jesse Dodge</a> <br/>
+          NAACL 2022<br/>
+          <!-- [<a href="https://aclanthology.org/2022.naacl-main.96.pdf">paper</a>] -->
         </li>
           <li>
           <b><a href="https://aclanthology.org/2022.findings-emnlp.315.pdf">m<sup>4</sup> Adapter: Multilingual Multi-Domain Adaptation for Machine Translation with a Meta-Adapter</a></b> <br/>
