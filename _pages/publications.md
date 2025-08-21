@@ -98,6 +98,9 @@ author_profile: true
           <b>Alexandra Chronopoulou</b>, <a href="https://www.cis.lmu.de/~dario/">Dario Stojanovski</a>, <a href="https://www.cis.uni-muenchen.de/~hangyav/">Viktor Hangya</a>, <a href="https://www.cis.uni-muenchen.de/~fraser/">Alexander Fraser</a> <br/>
           WMT 2020 <br/>
           </li>
+          <b><a href="https://aclanthology.org/N19-1213.pdf">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models</a></b> <br/>
+          <b>Alexandra Chronopoulou</b>, <a href="https://cbaziotis.github.io/">Christos Baziotis</a>, <a href="https://slp-ntua.github.io/potam/">Alexandros Potamianos</a> <br/>
+          NAACL 2019 <br />
         <li>
            <b><a href="https://aclanthology.org/W18-6209.pdf">NTUA-SLP at IEST 2018: Ensemble of neural transfer methods for implicit emotion classification</a></b> 
            [<a href="https://github.com/alexandra-chron/ntua-slp-wassa-iest2018">code</a>]   <br/>
