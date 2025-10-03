@@ -9,15 +9,11 @@ redirect_from:
 ---
 
 
-I am Alexandra, a Research Scientist at Google DeepMind in the GenAI team working on post-training of LLMs (Gemini) and more widely on Natural Language Processing (Machine Learning). 
+I am currently a Research Scientist at [Google DeepMind](https://deepmind.google/) in the GenAI team working on LLM post-training ([Gemini](https://gemini.google.com/corp/app)) and more widely on Natural Language Processing (Machine Learning). 
 
-I earned my PhD in Computer Science from the [University of Munich](https://www.en.uni-muenchen.de/index.html), where I was advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My PhD research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints.   
+I earned my PhD in Computer Science from the [University of Munich](https://www.en.uni-muenchen.de/index.html), where I was advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints. During my PhD, I interned at [Google DeepΜind](https://www.deepmind.com/) in Berlin. Prior to that, I interned (twice) at the [Allen Institute for AI](https://allenai.org/) in the [AllenNLP](https://allenai.org/allennlp) team. I also spent a few months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA as an intern in the AI human language technology group.
 
-<!-- machine translation, multilinguality and domain adaptation. I am currently interested in parameter-efficient fine-tuning methods; I am particularly excited about combining information from different languages, domains or tasks to enable positive transfer using modular approaches. -->
-
-During my PhD, I interned at [Google DeepΜind](https://www.deepmind.com/) in Berlin, hosted by [Sebastian Ruder](https://www.ruder.io/) and [Priyanka Agrawal](https://sites.google.com/site/priyankaagr17). Prior to that, I interned (twice) at the [Allen Institute for AI](https://allenai.org/) with [Jesse Dodge](https://jessedodge.github.io/) and [Matt Peters](https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en); I was part of the [AllenNLP](https://allenai.org/allennlp) team. I also spent a few months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA , working with [Brian Thompson](https://thompsonb.github.io/), [Prashant Mathur](http://mtresearcher.github.io/) and [Marcello Federico](https://www.marcellofederico.net) as an intern in the AI human language technology group.
-
-Before starting the PhD, I graduated with a diploma (Bachelor and MEng) in [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). 
+Before my doctoral studies, I did my undergrad in [Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). 
 
 
 
