@@ -64,3 +64,7 @@ Before my doctoral studies, I did my undergrad in [Electrical & Computer Enginee
 
 - My undergrad thesis supervisor was [Alexandros Potamianos](https://slp-ntua.github.io/potam/). I spent a good part of 2018 and 2019 in the Speech and Language Processing group of ECE, NTUA. Thesis: [Transfer Learning with Deep Neural Networks for Sentiment Analysis and Semantic Modeling](https://alexandra-chron.github.io/files/thesis_achronopoulou.pdf). During my last undergrad year, I was also working as a Machine Learning Engineer at [Behavioral Signal Technologies](https://behavioralsignals.com/). 
 - I am from Athens, Greece (go VVV!) and I enjoy a variety of things including books, good movies, sports (tennis, padel, skiing), concerts, exploring new places, and most activities that are ocean-related.
+
+## Contact
+
+Feel free to reach out! You can email me at [alexandra.xron@gmail.com](mailto:alexandra.xron@gmail.com).
