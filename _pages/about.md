@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist at [Google DeepMind](https://deepmind.google/) in the GenAI team working on LLM post-training ([Gemini](https://gemini.google.com/corp/app)). I am mainly working on (system) instruction following, in both agentic and non-agentic settings. 
+I am currently a Research Scientist at [Google DeepMind](https://deepmind.google/) in the GenAI team working on LLM post-training ([Gemini](https://gemini.google.com)). I am mainly working on (system) instruction following, in both agentic and non-agentic settings. 
 
 I earned my PhD in Computer Science from the [University of Munich](https://www.en.uni-muenchen.de/index.html), where I was advised by [Alex Fraser](https://www.cis.uni-muenchen.de/~fraser/). My research was mostly on combining information from various languages and domains to enable positive transfer during parameter-efficient fine-tuning of language models, especially under resource constraints. During my PhD, I interned at [Google DeepMind](https://www.deepmind.com/) in Berlin. Prior to that, I interned (twice) at the [Allen Institute for AI](https://allenai.org/) in the [AllenNLP](https://allenai.org/allennlp) team. I also spent a few months at [Amazon AI](https://aws.amazon.com/machine-learning/) in Santa Clara, CA as an intern in the AI human language technology group.
 
