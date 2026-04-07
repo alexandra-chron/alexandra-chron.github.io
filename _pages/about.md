@@ -16,7 +16,9 @@ Before my doctoral studies, I did my undergrad in [Electrical & Computer Enginee
 
 ## News
 
-**March 2026**: Will give a talk at the AI4Science Summer School back home in Athens, Greece on the 16th and 17th of July!
+**April 2026**: Our paper [Do LLMs Really Need 10+ Thoughts for “Find the Time 1000 Days Later”? Towards Structural Understanding of LLM Overthinking](https://arxiv.org/pdf/2510.07880) was accepted to appear at [ACL 2026](https://2026.aclweb.org/) main. 
+
+**March 2026**: Will give a talk at the [AI4Science Summer School](https://www.aiforscience.school/) back home in Athens, Greece on the 16th and 17th of July!
 
 **February 2026**: I participated in a panel at [Barnard College](https://barnard.edu/) regarding: [Deciding between “industry” (product) and “research” (academia)](https://github.com/barnardcsc/Spring-26-Navigating-AI-in-the-Contemporary-Job-Market?tab=readme-ov-file), invited by [Lauren Beltrone](https://www.linkedin.com/in/laurenbeltrone/). 
 
@@ -26,9 +28,7 @@ Before my doctoral studies, I did my undergrad in [Electrical & Computer Enginee
 
 **July 2025**: The [technical report](https://arxiv.org/pdf/2507.06261) of our most advanced model, [Gemini 2.5 pro](https://aistudio.google.com/app/prompts/new_chat), has just been published! 
 
-**June 2025**: The paper [Model Merging of Large Language Models](https://openreview.net/pdf?id=9sbetmvNpW) of our intern [Prateek Yadav](https://x.com/prateeky2806) has been accepted to Transactions on Machine Learning Research (TMLR). 
-
-**January 2025**: I co-organized [Repl4NLP 2025](https://sites.google.com/corp/view/repl4nlp2025/call-for-papers). The workshop was co-located with NAACL 2025 in Albuquerque, New Mexico. 
+**June 2025**: The paper [Model Merging of Large Language Models](https://openreview.net/pdf?id=9sbetmvNpW) of our intern [Prateek Yadav](https://x.com/prateeky2806) has been accepted to Transactions on Machine Learning Research (TMLR).  
 
 ## Selected Publications
 
